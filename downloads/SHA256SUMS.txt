@@ -10,3 +10,4 @@ db345979ec0c6b0c857fec23830c17a062cdd830b914736c187668ed6881f642  ServerAdminSui
 fd8e43e16b2bae3e3862c03c4ace65c23df41c4ef1d3fc6499d7a9fb8bac6486  ServerAdminSuite-Setup-2.7.9.exe
 7a79b6c0ccf6c8bb854f0283712a495d83df52079ec0139ddc4936f7d776f09f  ServerAdminSuite-Setup-2.8.0.exe
 512d5723e9fa28a3091b36df2718e7c6f85ac70fd2a2508b58a778804413fdf8  ServerAdminSuite-Setup-2.8.1.exe
+435b0a44e5ecdf45fc3f654a83beceefe7e385fc1cf718c1ecf508e6a1f4fccb  ServerAdminSuite-Setup-2.8.2.exe
