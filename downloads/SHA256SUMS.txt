@@ -3,3 +3,4 @@
 c482db70d513428ed51eb3e11dc81a3f0dedf23382267fa737fcb9508ed598fe  ServerAdminSuite-Setup-2.7.2.exe
 604560d6b64572f573b044c439241d1aec94e470a3af35a69b84592a335a64c1  ServerAdminSuite-Setup-2.7.3.exe
 66e941810418a660e1da6d06cde1d12c9f2ff87300b4ce9de1acec00790b6745  ServerAdminSuite-Setup-2.7.4.exe
+c4955725d4dfac6c04e46f9ae570eb6330dace01477ba77c140b8aa125be9857  ServerAdminSuite-Setup-2.7.5.exe
